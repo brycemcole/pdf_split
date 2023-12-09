@@ -8,5 +8,5 @@ usage:
 just run gui.py and select a file then enter the number of pages and output folder
 
 ## cli application
-> python3 cli.py -f {file-name} -p {number-of-pages-per-split-pdf} -o {output-folder}
+> python3 cli.py -f filename -p pagespersplitpdf -o outputfolder
 
